@@ -23,15 +23,15 @@ Organize your images like this:
 ```
 dataset/
 ├── train/
-│   ├── Bacterial_Leaf_Blight/
-│   ├── Brown_Spot/
+│   ├── BrownSpot/
 │   ├── Healthy/
-│   └── Leaf_Smut/
+│   ├── Hispa/
+│   └── LeafBlast/
 └── val/
-    ├── Bacterial_Leaf_Blight/
-    ├── Brown_Spot/
+    ├── BrownSpot/
     ├── Healthy/
-    └── Leaf_Smut/
+    ├── Hispa/
+    └── LeafBlast/
 ```
 
 > 💡 You can download rice leaf disease datasets from [Kaggle](https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases).
