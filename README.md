@@ -1,5 +1,8 @@
 # 🌾 Rice Leaf Disease Classification using CNN
 
+> [!IMPORTANT]
+> This repository contains only a proof of concept for a university research title defense. It was created for demonstration purposes and is not actively maintained or intended for production use.
+
 A simple Convolutional Neural Network (CNN) built with PyTorch to classify rice leaf diseases.
 
 ## Disease Classes
